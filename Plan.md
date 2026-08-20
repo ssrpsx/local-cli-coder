@@ -302,12 +302,12 @@ Agent ต้องมี `max_iterations` ตั้งแต่แรก เพ�
 
 ### Student Checkpoint
 
-- [ ] ติดตั้ง Python และ `uv`
-- [ ] สร้าง `pyproject.toml` และ `src` layout
-- [ ] สร้าง `.gitignore`
-- [ ] คำสั่งเริ่มต้นทำงานได้
-- [ ] มี test อย่างน้อยหนึ่ง test
-- [ ] มีหลักฐานคำสั่ง test ผ่าน
+- [X] ติดตั้ง Python และ `uv`
+- [X] สร้าง `pyproject.toml` และ `src` layout
+- [X] สร้าง `.gitignore`
+- [X] คำสั่งเริ่มต้นทำงานได้
+- [X] มี test อย่างน้อยหนึ่ง test
+- [X] มีหลักฐานคำสั่ง test ผ่าน
 
 ### วิธีทดสอบ
 

@@ -21,7 +21,7 @@ wheels = [
 ]
 
 [[package]]
-name = "local-cli-coder"
+name = "local-coder"
 version = "0.1.0"
 source = { editable = "." }
 

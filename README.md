@@ -10,7 +10,7 @@ The checkboxes below are **teacher-verified major checkpoints**. They are update
 
 | Status | Checkpoint | Milestone | Description |
 |---|---|---|---|
-| [ ] | MC-00 | 0 | Environment and Python Foundation |
+| [x] | MC-00 | 0 | Environment and Python Foundation |
 | [ ] | MC-01 | 1 | CLI Skeleton |
 | [ ] | MC-02 | 2 | Configuration and Logging |
 | [ ] | MC-03 | 3 | Ollama Provider |
